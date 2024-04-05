@@ -37,6 +37,7 @@ Users should be able to:
 - [Vue](https://vuejs.org/) - JS Framework
 - [Vite](https://vitejs.dev/) - Build Tool
 - [Oh-Vue-Icons](https://oh-vue-icons.js.org/) - For Icons
+- [Tailwind](https://tailwindcss.com/) - CSS Framework
 
 ### What I learned
 
