@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Github](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-made-with-vue-jTstEdTMGG)
+- Live Site URL: [Github](https://r3ygoski.github.io/huddle-landing-page-vue/)
 
 ## My process
 
@@ -37,6 +37,7 @@ Users should be able to:
 - [Vue](https://vuejs.org/) - JS Framework
 - [Vite](https://vitejs.dev/) - Build Tool
 - [Oh-Vue-Icons](https://oh-vue-icons.js.org/) - For Icons
+- [Tailwind](https://tailwindcss.com/) - CSS Framework
 
 ### What I learned
 
